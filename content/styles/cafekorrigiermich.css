@@ -1,0 +1,26 @@
+
+/* dont show footer */
+footer { display: none; }
+
+/* dont show archive */
+.navbar-right { display: none; }
+
+.profilepicture {
+  float: left;
+  margin-right:5px;
+}
+
+.fontsize_xxl { font-size: xx-large; }
+.fontsize_xl { font-size: x-large; }
+
+.center_text {
+  text-align: center;
+}
+
+.lehrer {
+  min-height: 300px;
+}
+
+.angebot {
+  min-height: 225px;
+}
