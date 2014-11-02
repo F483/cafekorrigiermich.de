@@ -5,9 +5,11 @@ Slug: angebot
   <div class="col-sm-6">
     <div class="well angebot">
       <h3>Termine</h3>
-      Montags von 21:00 bis 23:00 Uhr       <br />
-      Donnerstags von 13.30 bis 14.30 Uhr   <br />
-      Sonntagabend von 20:00 bis 19:00 Uhr
+      Mo von 21:00 bis 23:00 Uhr   <br />
+      Di von 20:00 bis 22:00 Uhr   <br />
+      Do von 13.30 bis 14.30 Uhr   <br />
+      Sa von 19:00 bis 21:00 Uhr   <br />
+      So von 20:00 bis 22:00 Uhr
     </div>
   </div>
   <div class="col-sm-6">
@@ -23,10 +25,11 @@ Slug: angebot
   <div class="col-sm-6">
     <div class="well angebot">
       <h3>Kosten</h3>
-      Ein Monat kostet ….. Euro             <br />
-      4 Monaten kosten ….. Euro             <br />
-      6 Monaten kosten….. Euro              <br />
-      1 Jahr kostet ….. Euro                <br />
+      (Ein Monat hat 24std)                 <br />
+      Ein Monat: 250€                       <br />
+      Drei Monate: 700€                     <br />
+      Sechs Monate: 1.400€                  <br />
+      Ein Jahr: 2.700€                      <br />
       …… wir bringen der Wein
     </div>
   </div>

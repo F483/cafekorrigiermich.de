@@ -43,7 +43,7 @@ DEFAULT_PAGINATION = 5
 #GOOGLE_ANALYTICS = 'UA-XXXX-YYYY'
 
 MENUITEMS = (
-    ("Café",                    "/"),
+    ("Uns",                     "/"),
 #    ("Neues",                   "/category/blog.html"),
     ("Angebot",                 "/pages/angebot.html"),
     ("Lehrer",                  "/pages/lehrer.html"),
