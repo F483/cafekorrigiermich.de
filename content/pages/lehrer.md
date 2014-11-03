@@ -20,9 +20,9 @@ Slug: lehrer
       <h3>Fabian</h3>
       <img src="/images/fabian.png" class="profilepicture">
       <p>
-        Ich bin Fabian, ich komme aus Deutschland und ich habe für funfzehn Jahre
-        in Ireland gewohnt.  Ich arbeite als Informatik, und ich helfe Ausländer
-        gerne mit die Sprache.  Es gibt immer was neues zu lernen.
+        Ich bin Fabian, ich komme aus Deutschland und ich habe funfzehn Jahre
+        in Irland gewohnt.  Ich arbeite als Informatiker, und ich helfe Ausländern
+        gerne mit der Sprache.  Es gibt immer was neues zu lernen.
       </p>
       <i>Ich kann euch schnell korrigieren</i>
     </div>
@@ -37,15 +37,15 @@ Slug: lehrer
       <p>
         Ich bin Kristyn, ich komme aus den USA, und ich bin als Au Pair Mädchen nach
         Berlin gekommen. Ich weiß, wie schwer es ist, Deutsch zu lernen, und wie
-        selten Ausländer auf Deutsch reden können. Deswegen habe ich Café Korrigier
+        selten Ausländern auf Deutsch reden können. Deswegen habe ich Café Korrigier
         Mich organisiert.
       </p>
-      <i>Ich gieße der Wein</i>
+      <i>Ich gieße den Wein</i>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="well lehrer center_text fontsize_xl">
-      Wir haben ein Lehrer pro zwei Schüler um die bestmöglich Aufmerksamkeit 
+      Wir haben einen Lehrer pro zwei Schüler um die bestmöglich Aufmerksamkeit 
       zu erzielen.
     </div>
   </div>
