@@ -15,12 +15,11 @@ Slug: angebot
   <div class="col-sm-6">
     <div class="well angebot">
       <h3>Kosten</h3>
-      (Ein Monat hat 24std)                 <br />
-      Ein Monat: 250€                       <br />
-      Drei Monate: 700€                     <br />
-      Sechs Monate: 1.400€                  <br />
-      Ein Jahr: 2.700€                      <br />
-      …… wir bringen der Wein
+      (Ein Monat hat 15std)                 <br />
+      Ein Monat: 150€                       <br />
+      Drei Monate: 425€                     <br />
+      Sechs Monate: 850€                    <br />
+      …… wir bringen den Wein
     </div>
   </div>
 </div>
@@ -29,7 +28,7 @@ Slug: angebot
   <div class="col-sm-6">
     <div class="well angebot">
       <h3>Kontakt</h3>
-      Tel.: +49 30 65007558                 <br />
+      Tel.: +49 30 55477142                 <br />
       Email: cafekorrigiermich.de@gmail.com <br />
       <!--Email: kristyn@cafekorrigiermich.de-->
       <a href="https://docs.google.com/forms/d/1PjwJznRcqfC9hji806pQO6KKjA6npjPyvXxiwiDmiug/viewform?usp=send_form" class="btn btn-success">Zur Anmeldung</a>
