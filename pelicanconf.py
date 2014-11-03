@@ -40,13 +40,13 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DEFAULT_PAGINATION = 5
 #TWITTER_USERNAME = ""
-#GOOGLE_ANALYTICS = 'UA-XXXX-YYYY'
+GOOGLE_ANALYTICS = 'UA-56350575-1'
 
 MENUITEMS = (
     ("Uns",                     "/"),
 #    ("Neues",                   "/category/blog.html"),
-    ("Angebot",                 "/pages/angebot.html"),
     ("Lehrer",                  "/pages/lehrer.html"),
+    ("Angebot",                 "/pages/angebot.html"),
     ("Anfahrt",                 "/pages/anfahrt.html"),
 )
 

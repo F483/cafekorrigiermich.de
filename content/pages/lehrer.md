@@ -44,6 +44,10 @@ Slug: lehrer
     </div>
   </div>
   <div class="col-sm-6">
+    <div class="well lehrer center_text fontsize_xl">
+      Wir haben ein Lehrer pro zwei Schüler um die bestmöglich Aufmerksamkeit 
+      zu erzielen.
+    </div>
   </div>
 </div>
 
