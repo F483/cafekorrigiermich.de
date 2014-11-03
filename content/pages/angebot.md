@@ -31,7 +31,7 @@ Slug: angebot
       Tel.: +49 30 55477142                 <br />
       Email: cafekorrigiermich.de@gmail.com <br />
       <!--Email: kristyn@cafekorrigiermich.de-->
-      <a href="https://docs.google.com/forms/d/1PjwJznRcqfC9hji806pQO6KKjA6npjPyvXxiwiDmiug/viewform?usp=send_form" class="btn btn-success">Zur Anmeldung</a>
+      <a href="https://docs.google.com/forms/d/1PjwJznRcqfC9hji806pQO6KKjA6npjPyvXxiwiDmiug/viewform?usp=send_form" target="_blank" class="btn btn-success">Zur Anmeldung</a>
       <!--iframe src="https://docs.google.com/forms/d/1PjwJznRcqfC9hji806pQO6KKjA6npjPyvXxiwiDmiug/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe-->
       
     </div>
